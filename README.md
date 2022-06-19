@@ -4,4 +4,5 @@ Dice roller app created with Kotlin
 developer.android.com/courses  -  Android Basics in Kotlin - Unit 1: Kotlin basics
 <br>
 <br>
-![DiceRoller](https://user-images.githubusercontent.com/105887606/174443185-19269193-7e70-4bc8-990c-22bb5a11fa06.gif)
+
+![DiceRoller](https://user-images.githubusercontent.com/105887606/174461221-bd568b11-a6df-4862-87b0-e791bfb93db2.gif)
